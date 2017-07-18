@@ -17,7 +17,7 @@ from dracclient.resources import uris
 
 FAKE_ENDPOINT = {
     'host': '1.2.3.4',
-    'port': '80',
+    'port': '443',
     'path': '/wsman',
     'protocol': 'http',
     'username': 'admin',
