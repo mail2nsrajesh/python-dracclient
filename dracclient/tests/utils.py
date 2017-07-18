@@ -19,7 +19,7 @@ FAKE_ENDPOINT = {
     'host': '1.2.3.4',
     'port': '443',
     'path': '/wsman',
-    'protocol': 'http',
+    'protocol': 'https',
     'username': 'admin',
     'password': 's3cr3t'
 }
